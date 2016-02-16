@@ -1,5 +1,5 @@
-def odd_numbers(lower, upper):
+def even_numbers(lower, upper):
     for i in range(lower, upper):
        if i%2 == 0 :
            print(i)
-odd_numbers (3, 7)
+even_numbers (3, 7)
